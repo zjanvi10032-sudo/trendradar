@@ -91,7 +91,7 @@ platforms:
     name: "贴吧"
   - id: "zhihu"
     name: "知乎"
-  - id: "_36kr"
+  - id: "36kr"
     name: "36氪"
   - id: "juejin"
     name: "稀土掘金"
